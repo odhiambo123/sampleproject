@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/odhis_one_3ud49.egg-info/PKG-INFO
+src/odhis_one_3ud49.egg-info/SOURCES.txt
+src/odhis_one_3ud49.egg-info/dependency_links.txt
+src/odhis_one_3ud49.egg-info/top_level.txt
+src/odhis_one_package/__init__.py
+src/odhis_one_package/example.py
