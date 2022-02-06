@@ -1,4 +1,5 @@
-<script>
+<code>
+	<script>
 	const highlights = document.querySelectorAll("div.highlight")
 
 	highlights.forEach(div=> {
@@ -76,5 +77,5 @@ install version <div class="highlight">
 <button>Copy</button>
 
 </div>
-
+</code>
 
